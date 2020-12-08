@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: textstatistics.TextStatisticsApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.776 s <<< FAILURE! - in textstatistics.TextStatisticsApplicationTest
+theDesiredElementsAreFound(textstatistics.TextStatisticsApplicationTest)  Time elapsed: 0.649 s  <<< ERROR!
+java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.AssertionError: Make sure the TextStatisticsApplication class inherits the Application class.
+	at textstatistics.TextStatisticsApplicationTest.start(TextStatisticsApplicationTest.java:47)
+

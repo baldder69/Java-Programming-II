@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="textstatistics.TextStatisticsApplicationTest" time="0.776" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\EduardoPC\Documents\NetBeansProjects\mooc-java-programming-ii\part13-Part13_05.TextStatistics\target\test-classes;C:\Users\EduardoPC\Documents\NetBeansProjects\mooc-java-programming-ii\part13-Part13_05.TextStatistics\target\classes;C:\Users\EduardoPC\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\EduardoPC\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\EduardoPC\.m2\repository\fi\helsinki\cs\tmc\edu-test-utils\0.4.2\edu-test-utils-0.4.2.jar;C:\Users\EduardoPC\.m2\repository\org\testfx\testfx-junit\4.0.15-alpha\testfx-junit-4.0.15-alpha.jar;C:\Users\EduardoPC\.m2\repository\org\testfx\testfx-core\4.0.15-alpha\testfx-core-4.0.15-alpha.jar;C:\Users\EduardoPC\.m2\repository\org\assertj\assertj-core\3.11.1\assertj-core-3.11.1.jar;C:\Users\EduardoPC\.m2\repository\org\testfx\openjfx-monocle\8u76-b04\openjfx-monocle-8u76-b04.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\EDUARD~1\AppData\Local\Temp\surefire6143392138392135968\surefirebooter4040026037888726581.jar C:\Users\EduardoPC\AppData\Local\Temp\surefire6143392138392135968 2020-08-20T16-14-32_418-jvmRun1 surefire7129423217776965072tmp surefire_02211354884508177535tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\EduardoPC\Documents\NetBeansProjects\mooc-java-programming-ii\part13-Part13_05.TextStatistics\target\test-classes;C:\Users\EduardoPC\Documents\NetBeansProjects\mooc-java-programming-ii\part13-Part13_05.TextStatistics\target\classes;C:\Users\EduardoPC\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\EduardoPC\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\EduardoPC\.m2\repository\fi\helsinki\cs\tmc\edu-test-utils\0.4.2\edu-test-utils-0.4.2.jar;C:\Users\EduardoPC\.m2\repository\org\testfx\testfx-junit\4.0.15-alpha\testfx-junit-4.0.15-alpha.jar;C:\Users\EduardoPC\.m2\repository\org\testfx\testfx-core\4.0.15-alpha\testfx-core-4.0.15-alpha.jar;C:\Users\EduardoPC\.m2\repository\org\assertj\assertj-core\3.11.1\assertj-core-3.11.1.jar;C:\Users\EduardoPC\.m2\repository\org\testfx\openjfx-monocle\8u76-b04\openjfx-monocle-8u76-b04.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\EduardoPC"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_261\jre"/>
+    <property name="basedir" value="C:\Users\EduardoPC\Documents\NetBeansProjects\mooc-java-programming-ii\part13-Part13_05.TextStatistics"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\EDUARD~1\AppData\Local\Temp\surefire6143392138392135968\surefirebooter4040026037888726581.jar"/>
+    <property name="jdk.net.URLClassPath.disableClassPathURLCheck" value="true"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_261-b12"/>
+    <property name="user.name" value="EduardoPC"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\EduardoPC\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\EDUARD~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_261"/>
+    <property name="user.dir" value="C:\Users\EduardoPC\Documents\NetBeansProjects\mooc-java-programming-ii\part13-Part13_05.TextStatistics"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Users\EduardoPC\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.261-b12"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="theDesiredElementsAreFound" classname="textstatistics.TextStatisticsApplicationTest" time="0.649">
+    <error message="java.util.concurrent.ExecutionException: java.lang.AssertionError: Make sure the TextStatisticsApplication class inherits the Application class." type="java.lang.RuntimeException">java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.AssertionError: Make sure the TextStatisticsApplication class inherits the Application class.
+	at textstatistics.TextStatisticsApplicationTest.start(TextStatisticsApplicationTest.java:47)
+</error>
+    <system-err><![CDATA[--- Exception in Async Thread ---
+java.lang.AssertionError: Make sure the TextStatisticsApplication class inherits the Application class.
+	org.junit.Assert.fail(Assert.java:88)
+	textstatistics.TextStatisticsApplicationTest.start(TextStatisticsApplicationTest.java:47)
+	org.testfx.framework.junit.ApplicationAdapter.start(ApplicationAdapter.java:41)
+	org.testfx.toolkit.impl.ApplicationServiceImpl.lambda$start$0(ApplicationServiceImpl.java:49)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	com.sun.javafx.application.PlatformImpl.lambda$null$5(PlatformImpl.java:295)
+	java.security.AccessController.doPrivileged(Native Method)
+	com.sun.javafx.application.PlatformImpl.lambda$runLater$6(PlatformImpl.java:294)
+	com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	com.sun.glass.ui.win.WinApplication.lambda$null$4(WinApplication.java:186)
+	java.lang.Thread.run(Thread.java:748)
+--- Trace of caller of unhandled exception in Async Thread ---
+	java.lang.Thread.getStackTrace(Thread.java:1559)
+	org.testfx.util.WaitForAsyncUtils$ASyncFXCallable.<init>(WaitForAsyncUtils.java:650)
+	org.testfx.util.WaitForAsyncUtils.asyncFx(WaitForAsyncUtils.java:258)
+	org.testfx.toolkit.impl.ApplicationServiceImpl.start(ApplicationServiceImpl.java:48)
+	org.testfx.toolkit.impl.ToolkitServiceImpl.lambda$setupApplication$6(ToolkitServiceImpl.java:127)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+
+--- Exception in Async Thread ---
+java.util.concurrent.ExecutionException: java.lang.AssertionError: Make sure the TextStatisticsApplication class inherits the Application class.
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.testfx.util.WaitForAsyncUtils$ASyncFXCallable.get(WaitForAsyncUtils.java:697)
+	org.testfx.toolkit.impl.ToolkitServiceImpl.lambda$setupApplication$6(ToolkitServiceImpl.java:127)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+java.lang.AssertionError: Make sure the TextStatisticsApplication class inherits the Application class.
+	org.junit.Assert.fail(Assert.java:88)
+	textstatistics.TextStatisticsApplicationTest.start(TextStatisticsApplicationTest.java:47)
+	org.testfx.framework.junit.ApplicationAdapter.start(ApplicationAdapter.java:41)
+	org.testfx.toolkit.impl.ApplicationServiceImpl.lambda$start$0(ApplicationServiceImpl.java:49)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	com.sun.javafx.application.PlatformImpl.lambda$null$5(PlatformImpl.java:295)
+	java.security.AccessController.doPrivileged(Native Method)
+	com.sun.javafx.application.PlatformImpl.lambda$runLater$6(PlatformImpl.java:294)
+	com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	com.sun.glass.ui.win.WinApplication.lambda$null$4(WinApplication.java:186)
+	java.lang.Thread.run(Thread.java:748)
+--- Trace of caller of unhandled exception in Async Thread ---
+	java.lang.Thread.getStackTrace(Thread.java:1559)
+	org.testfx.util.WaitForAsyncUtils$ASyncFXCallable.<init>(WaitForAsyncUtils.java:650)
+	org.testfx.util.WaitForAsyncUtils.async(WaitForAsyncUtils.java:193)
+	org.testfx.toolkit.impl.ToolkitServiceImpl.setupApplication(ToolkitServiceImpl.java:123)
+	org.testfx.api.FxToolkit.setupApplication(FxToolkit.java:153)
+	org.testfx.framework.junit.ApplicationTest.internalBefore(ApplicationTest.java:86)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:498)
+	org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+	org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+	org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+	org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+	org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+]]></system-err>
+  </testcase>
+</testsuite>
