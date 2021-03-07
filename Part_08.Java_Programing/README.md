@@ -1,5 +1,5 @@
 # Part VIII
-Part VIII goes over hash maps, similarity of objects, and grouping data using hash maps
+Part VIII goes over hash maps, similarity of objects, and grouping data using hash maps.
 
 ⠀Sections⠀                | Learning Objectives |
 ------------------------- | ------------------- |
