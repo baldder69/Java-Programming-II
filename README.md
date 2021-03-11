@@ -3,7 +3,7 @@ Java Programming II from the University of Helsinki. Course related information 
 
 https://java-programming.mooc.fi/
 
-⠀Parts⠀                | Content |
+⠀Part⠀                | Content |
 ------------------------- | ------------------- |
  Part 8 | Hash Maps, Similarity of objects, Grouping data using hash maps
  Part 9 | Class inheritance, Interfaces, Object polymorphism
